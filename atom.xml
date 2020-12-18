@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://devpass.cc</id>
-    <title>小站</title>
-    <updated>2020-12-18T07:44:01.798Z</updated>
+    <title>小小站</title>
+    <updated>2020-12-18T08:10:46.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://devpass.cc"/>
     <link rel="self" href="https://devpass.cc/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://devpass.cc/images/avatar.png</logo>
     <icon>https://devpass.cc/favicon.ico</icon>
-    <rights>All rights reserved 2020, 小站</rights>
+    <rights>All rights reserved 2020, 小小站</rights>
+    <entry>
+        <title type="html"><![CDATA[测试页面]]></title>
+        <id>https://devpass.cc/ce-shi-ye-mian/</id>
+        <link href="https://devpass.cc/ce-shi-ye-mian/">
+        </link>
+        <updated>2020-12-18T08:08:10.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="测试内容">测试内容</h3>
+<p>🤡😤😥，<br>
+你好的<br>
+<strong>测试</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://devpass.cc/post/hello-gridea/</id>
-        <link href="https://devpass.cc/post/hello-gridea/">
+        <id>https://devpass.cc/hello-gridea/</id>
+        <link href="https://devpass.cc/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
